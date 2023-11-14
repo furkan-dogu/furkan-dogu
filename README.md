@@ -23,11 +23,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=holi-theme">
+<br>
+<br>
 </p>
-<br>
-<br>
-<br>
-<br>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=furkan-dogu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
