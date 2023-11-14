@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Dogu</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
-- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
