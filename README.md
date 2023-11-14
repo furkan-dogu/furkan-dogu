@@ -30,3 +30,6 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=holi-theme">
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=furkan-dogu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
