@@ -11,6 +11,8 @@
 <a href="https://linkedin.com/in/furkan-dogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-dogu" height="30" width="40" /></a>
 </p>
 
+- 📫 How to reach me **samed.fent1@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-dogu&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-dogu" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
