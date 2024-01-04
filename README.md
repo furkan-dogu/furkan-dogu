@@ -76,17 +76,8 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="furkan-dogu" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=furkan-dogu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-dogu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
