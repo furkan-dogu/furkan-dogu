@@ -72,6 +72,7 @@
 |[Live Link](https://home-furnishing-page.vercel.app/)|CSS, Bootstrap|[Home Furnishing Page](https://github.com/furkan-dogu/Home-Furnishing-Page)
 |[Live Link](https://neonlu-form.vercel.app/)|HTML, CSS|[Neonlu Form](https://github.com/furkan-dogu/Neonlu-Form)
 |[Live Link](https://assignment3-rust.vercel.app/)|HTML, CSS|[Furkan Gallery](https://github.com/furkan-dogu/Furkan-Gallery)
+|[Live Link](https://002-parallax-website.vercel.app/)|HTML, CSS|[Parallax Website](https://github.com/furkan-dogu/parallax-website)
 
 # 📊 GitHub Stats:
 
