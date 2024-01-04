@@ -12,6 +12,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-dogu&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-dogu" /> </p>
 
+## 🚀 Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,firebase,git,github,html,js,linux,materialui,py,react,redux,sass,tailwind,vscode" />
+  </a>
+</p>
+
 ## My projects
 
 ### REACT
@@ -64,14 +72,6 @@
 |[Live Link](https://home-furnishing-page.vercel.app/)|CSS, Bootstrap|[Home Furnishing Page](https://github.com/furkan-dogu/Home-Furnishing-Page)
 |[Live Link](https://neonlu-form.vercel.app/)|HTML, CSS|[Neonlu Form](https://github.com/furkan-dogu/Neonlu-Form)
 |[Live Link](https://assignment3-rust.vercel.app/)|HTML, CSS|[Furkan Gallery](https://github.com/furkan-dogu/Furkan-Gallery)
-
-## 🚀 Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,firebase,git,github,html,js,linux,materialui,py,react,redux,sass,tailwind,vscode" />
-  </a>
-</p>
 
 # 📊 GitHub Stats:
 
