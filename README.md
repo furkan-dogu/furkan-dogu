@@ -30,7 +30,7 @@
 |[Live Link](https://furkan-store.vercel.app/)|React, Axios, TailwindCss, SweetAlert2, React-Router-Dom, React-Icons|[Furkan Store](https://github.com/furkan-dogu/furkan-store)
 |[Live Link](https://react-weather-app-omega-pink.vercel.app/)|React, Axios, SweetAlert2, React-Icons|[Weather App](https://github.com/furkan-dogu/react-weather-app)
 |[Live Link](https://shopping-cart-furkan-dogu.vercel.app/)|React, Axios, React-Router-Dom, React-Bootstrap|[Shopping Cart](https://github.com/furkan-dogu/shopping-cart)
-|[Live Link](https://icardi-portfolio.vercel.app/)|React, React-Router-Dom, SASS/SCSS, React-Icons|[Icardi Portfolio](https://github.com/furkan-dogu/random-user-app)
+|[Live Link](https://icardi-portfolio.vercel.app/)|React, React-Router-Dom, SASS/SCSS, React-Icons|[Icardi Portfolio](https://github.com/furkan-dogu/icardi-portfolio)
 |[Live Link](https://random-user-app-virid.vercel.app/)|React, Axios, useState, useEffect, LocalStorage, SweetAlert2, Bootstrap|[Random User App](https://github.com/furkan-dogu/random-user-app)
 |[Live Link](https://appointment-psi.vercel.app/)|React, Mock Data, useState, LocalStorage, React-Icons, React-Bootstrap|[Hospital Appointment](https://github.com/furkan-dogu/appointment)
 |[Live Link](https://product-list-v2-eta.vercel.app/)|React, SASS/SCSS, Mock Data, useState, React-Bootstrap|[Product List](https://github.com/furkan-dogu/product-list-V2)
