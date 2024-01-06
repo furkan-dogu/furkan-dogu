@@ -25,9 +25,9 @@
 ### REACT
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+|[Live Link](https://movie-app-khaki-three.vercel.app/)|React, Axios, TailwindCss, Firebase, React-Router-Dom, React-Toastify|[Movie App](https://github.com/furkan-dogu/movie-app)
 |[Live Link](https://qr-code-generator-and-scanner-woad.vercel.app/)|React, React-Router-Dom, React-Icons, React-QR-Code, Html5-QRcode|[QR Code Scanner and Generator](https://github.com/furkan-dogu/QR-code-generator-and-scanner)
 |[Live Link](https://furkan-store.vercel.app/)|React, Axios, TailwindCss, SweetAlert2, React-Router-Dom, React-Icons|[Furkan Store](https://github.com/furkan-dogu/furkan-store)
-|[Live Link](https://movie-app-khaki-three.vercel.app/)|React, Axios, TailwindCss, Firebase, React-Router-Dom, React-Toastify|[Movie App](https://github.com/furkan-dogu/movie-app)
 |[Live Link](https://react-weather-app-omega-pink.vercel.app/)|React, Axios, SweetAlert2, React-Icons|[Weather App](https://github.com/furkan-dogu/react-weather-app)
 |[Live Link](https://shopping-cart-furkan-dogu.vercel.app/)|React, Axios, React-Router-Dom, React-Bootstrap|[Shopping Cart](https://github.com/furkan-dogu/shopping-cart)
 |[Live Link](https://icardi-portfolio.vercel.app/)|React, React-Router-Dom, SASS/SCSS, React-Icons|[Icardi Portfolio](https://github.com/furkan-dogu/random-user-app)
