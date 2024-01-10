@@ -77,8 +77,16 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-dogu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+   <table align="center">
+      <tr border="none">
+         <td width="50%" align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my github stats"/>
+            <br></br>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-dogu&theme=chartreuse-dark&show_icons=true" alt="my commit status" />
+         </td>
+         <td width="50%" align="center">
+           <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=furkan-dogu&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+         </td>
+      </tr>
+   </table>
 
