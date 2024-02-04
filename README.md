@@ -28,6 +28,7 @@
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 |[Live Link](https://stock-app-theta-ten.vercel.app/)|React, Axios, Material UI, React-Router-Dom, React-Toastify, Redux, Redux-Toolkit, Redux-Persist, Tremor, Formik, Yup|[Stock App](https://github.com/furkan-dogu/stock-app)
+|[Live Link](https://netflix-app-with-nextjs.vercel.app/)|React, Next.js, Firebase, TailwindCss, React-Toastify, React-Router-Dom|[Netflix App](https://github.com/furkan-dogu/netflix-app-with-nextjs)
 |[Live Link](https://movie-app-khaki-three.vercel.app/)|React, Axios, TailwindCss, Firebase, React-Router-Dom, React-Toastify|[Movie App](https://github.com/furkan-dogu/movie-app)
 |[Live Link](https://qr-code-generator-and-scanner-woad.vercel.app/)|React, React-Router-Dom, React-Icons, React-QR-Code, Html5-QRcode|[QR Code Scanner and Generator](https://github.com/furkan-dogu/QR-code-generator-and-scanner)
 |[Live Link](https://furkan-store.vercel.app/)|React, Axios, TailwindCss, SweetAlert2, React-Router-Dom, React-Icons|[Furkan Store](https://github.com/furkan-dogu/furkan-store)
