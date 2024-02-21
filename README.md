@@ -27,6 +27,7 @@
 ### REACT
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+|[Live Link](https://blog-app-fd.vercel.app/)|React, Axios, Material UI, React-Router-Dom, React-Toastify, Redux, Redux-Toolkit, Redux-Persist, Formik, Yup|[Blog App](https://github.com/furkan-dogu/blog-app)
 |[Live Link](https://stock-app-theta-ten.vercel.app/)|React, Axios, Material UI, React-Router-Dom, React-Toastify, Redux, Redux-Toolkit, Redux-Persist, Tremor, Formik, Yup|[Stock App](https://github.com/furkan-dogu/stock-app)
 |[Live Link](https://netflix-app-with-nextjs.vercel.app/)|React, Next.js, Firebase, TailwindCss, React-Toastify, React-Router-Dom|[Netflix App](https://github.com/furkan-dogu/netflix-app-with-nextjs)
 |[Live Link](https://movie-app-khaki-three.vercel.app/)|React, Axios, TailwindCss, Firebase, React-Router-Dom, React-Toastify|[Movie App](https://github.com/furkan-dogu/movie-app)
