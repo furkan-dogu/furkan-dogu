@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,firebase,git,github,html,js,materialui,nextjs,py,react,redux,sass,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,cypress,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,postman,py,react,redux,sass,styledcomponents,tailwind,ts,vercel,vite,vscode,yarn" />
   </a>
 </p>
 
@@ -33,6 +33,7 @@
 |[Live Link](https://movie-app-khaki-three.vercel.app/)|React, Axios, TailwindCss, Firebase, React-Router-Dom, React-Toastify|[Movie App](https://github.com/furkan-dogu/movie-app)
 |[Live Link](https://qr-code-generator-and-scanner-woad.vercel.app/)|React, React-Router-Dom, React-Icons, React-QR-Code, Html5-QRcode|[QR Code Scanner and Generator](https://github.com/furkan-dogu/QR-code-generator-and-scanner)
 |[Live Link](https://furkan-store.vercel.app/)|React, Axios, TailwindCss, SweetAlert2, React-Router-Dom, React-Icons|[Furkan Store](https://github.com/furkan-dogu/furkan-store)
+|[Live Link](https://recipe-app-dun.vercel.app/)|React, Axios, Styled Components, React-Router-Dom, React-Icons|[Recipe App](https://github.com/furkan-dogu/recipe-app)
 |[Live Link](https://react-weather-app-omega-pink.vercel.app/)|React, Axios, SweetAlert2, React-Icons|[Weather App](https://github.com/furkan-dogu/react-weather-app)
 |[Live Link](https://shopping-cart-furkan-dogu.vercel.app/)|React, Axios, React-Router-Dom, React-Bootstrap|[Shopping Cart](https://github.com/furkan-dogu/shopping-cart)
 |[Live Link](https://todo-with-ts-eight.vercel.app/)|React, TypeScript, Vite, Material-UI, Sweetalert2, Axios,|[Todo App](https://github.com/furkan-dogu/todo-with-ts)
