@@ -37,6 +37,7 @@
 |[Live Link](https://react-weather-app-omega-pink.vercel.app/)|React, Axios, SweetAlert2, React-Icons|[Weather App](https://github.com/furkan-dogu/react-weather-app)
 |[Live Link](https://shopping-cart-furkan-dogu.vercel.app/)|React, Axios, React-Router-Dom, React-Bootstrap|[Shopping Cart](https://github.com/furkan-dogu/shopping-cart)
 |[Live Link](https://todo-with-ts-eight.vercel.app/)|React, TypeScript, Vite, Material-UI, Sweetalert2, Axios,|[Todo App](https://github.com/furkan-dogu/todo-with-ts)
+|[Live Link](https://e-trade-app.vercel.app/)|React, JS, Bootstrap, React-Bootstrap, React-Icons|[Shopping App](https://github.com/furkan-dogu/shopping-app)
 |[Live Link](https://icardi-portfolio.vercel.app/)|React, React-Router-Dom, SASS/SCSS, React-Icons|[Icardi Portfolio](https://github.com/furkan-dogu/icardi-portfolio)
 |[Live Link](https://random-user-app-virid.vercel.app/)|React, Axios, useState, useEffect, LocalStorage, SweetAlert2, Bootstrap|[Random User App](https://github.com/furkan-dogu/random-user-app)
 |[Live Link](https://appointment-psi.vercel.app/)|React, Mock Data, useState, LocalStorage, React-Icons, React-Bootstrap|[Hospital Appointment](https://github.com/furkan-dogu/appointment)
