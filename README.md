@@ -39,7 +39,7 @@
 |[Live Link](https://crypto-coin-app-three.vercel.app/)|React, Axios, React-Bootstrap, SweetAlert2, React-Icons|[Crypto Coin App](https://github.com/furkan-dogu/crypto-coin-app)
 |[Live Link](https://todo-with-ts-eight.vercel.app/)|React, TypeScript, Vite, Material-UI, Sweetalert2, Axios,|[Todo App](https://github.com/furkan-dogu/todo-with-ts)
 |[Live Link](https://e-trade-app.vercel.app/)|React, JS, Bootstrap, React-Bootstrap, React-Icons|[Shopping App](https://github.com/furkan-dogu/shopping-app)
-|[Live Link](https://milyoner-app.vercel.app/)|React, CSS, UseSound|[Milyoner App](https://github.com/furkan-dogu/milyoner-app)
+|[Live Link](https://milyoner-app.vercel.app/)|React, CSS, Mock Data, UseSound|[Milyoner App](https://github.com/furkan-dogu/milyoner-app)
 |[Live Link](https://icardi-portfolio.vercel.app/)|React, React-Router-Dom, SASS/SCSS, React-Icons|[Icardi Portfolio](https://github.com/furkan-dogu/icardi-portfolio)
 |[Live Link](https://random-user-app-virid.vercel.app/)|React, Axios, useState, useEffect, LocalStorage, SweetAlert2, Bootstrap|[Random User App](https://github.com/furkan-dogu/random-user-app)
 |[Live Link](https://appointment-psi.vercel.app/)|React, Mock Data, useState, LocalStorage, React-Icons, React-Bootstrap|[Hospital Appointment](https://github.com/furkan-dogu/appointment)
