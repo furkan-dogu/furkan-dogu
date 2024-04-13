@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,cypress,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,postman,py,react,redux,sass,styledcomponents,tailwind,ts,vercel,vite,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,cypress,express,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,npm,postgres,postman,py,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vercel,vite,vscode,yarn" />
   </a>
 </p>
 
