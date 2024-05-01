@@ -3,12 +3,15 @@
 <h1 align="center">Hi 👋, I'm Furkan Dogu</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
+<br>
+
 # 💫 About Me:
 <p>💻 I specialize in frontend development using JavaScript and React. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries.</p>
 <p>📱 I follow various technologies in the software field, and I'm currently taking courses to become a MERN Stack Developer and React Native Developer by learning Node.js and React Native. I am determined to continuously improve myself in this field.</p>
 <p>🛠 I'm also working on various freelance projects, gaining experiences that enhance my professional skills.</p>
 
-<h3 align="left">Connect with me:</h3> 
+## 📧 Connect with me:
+
 <div align="left">
    <a href=https://www.linkedin.com/in/furkan-dogu/ target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div> 
@@ -19,7 +22,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-dogu&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-dogu" /> </p>
 
-## 🚀 Skills
+<br>
+
+# 🚀 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,12 +32,16 @@
   </a>
 </p>
 
-## My projects
+<br>
+
+# 🛸 My projects
 
 - 🚀 [FRONTEND](https://github.com/furkan-dogu/MY-FRONT-END-PROJECTS)
 - 🎯 [BACKEND](https://github.com/furkan-dogu/MY-BACKEND-PROJECTS)
 - 💻 [FULL-STACK](https://github.com/furkan-dogu/MY-FULL-STACK-PROJECTS)
 - 📲 [REACT-NATIVE](https://github.com/furkan-dogu/MY-REACT-NATIVE-PROJECTS)
+
+<br>
 
 # 📊 GitHub Stats:
 
