@@ -4,8 +4,9 @@
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
 # 💫 About Me:
-🌐 About Me<br><br>💻 I specialize in frontend development using JavaScript and React. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries.<br><br>💡 What I'm Currently Working On<br><br>📱 I follow various technologies in the software field, and I'm currently taking courses to become a MERN Stack Developer and React Native Developer by learning Node.js and React Native. I am determined to continuously improve myself in this field.<br>🛠 I'm also working on various freelance projects, gaining experiences that enhance my professional skills.
-
+<p>💻 I specialize in frontend development using JavaScript and React. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries.</p>
+<p>📱 I follow various technologies in the software field, and I'm currently taking courses to become a MERN Stack Developer and React Native Developer by learning Node.js and React Native. I am determined to continuously improve myself in this field.</p>
+<p>🛠 I'm also working on various freelance projects, gaining experiences that enhance my professional skills.</p>
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
