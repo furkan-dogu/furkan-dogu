@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 <h1 align="center">Hi 👋, I'm Furkan Dogu</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate MERN Stack Developer from Turkey</h3>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,cypress,express,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,npm,postgres,postman,py,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vercel,vite,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,cypress,docker,express,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,npm,postgres,postman,py,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vercel,vite,vscode,yarn" />
   </a>
 </p>
 
