@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,cypress,docker,express,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,npm,postgres,postman,py,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vercel,vite,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,cypress,docker,express,firebase,git,github,html,js,materialui,mongodb,nextjs,nodejs,npm,nuxt,postman,py,react,redux,sass,styledcomponents,tailwind,ts,vercel,vite,vscode,vue,yarn" />
   </a>
 </p>
 
