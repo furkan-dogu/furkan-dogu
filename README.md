@@ -45,9 +45,10 @@
 <br>
 
 # 🛰️ My gists
-
-- [Türkiye Şehir ve İlçeleri](https://gist.github.com/furkan-dogu/f89c04b05068b4d2b6462dc981115446)
-- [Ülkeler ve Telefon Kodları](https://gist.github.com/furkan-dogu/710be9cd650964f547bb93f4b11f5668)
+  Gist Link       |Gist content     | Repo Link   
+:-------------------------|-------------------------|-------------------------
+|[Gist Link](https://gist.github.com/furkan-dogu/f89c04b05068b4d2b6462dc981115446)|Türkiye'nin tüm şehirlerini ve ilçelerini, ayrıca her şehir için plaka kodu, telefon kodu ve ilçe kodu bilgilerini içermektedir.|[Repo Link](https://github.com/furkan-dogu/Turkiye-Sehir-ve-Ilceleri)
+|[Gist Link](https://gist.github.com/furkan-dogu/710be9cd650964f547bb93f4b11f5668)|Türkçe ülke isimleri ve telefon kodları|[Repo Link](https://github.com/furkan-dogu/Turkce-Ulke-Telefon-Kodlari)
 
 <br>
 
